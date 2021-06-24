@@ -1,0 +1,151 @@
+header {
+ 
+  background-color:#87509c;
+}
+.logo {
+  margin-left:6%;
+  padding-top:50px;
+}
+
+.main-manu li a {
+  color: white;
+  font-size: 20px;
+}
+
+.main-manu li {
+  border-radius: 15px;
+  padding: 5px 15px;
+  transition: 1s;
+  margin-right: 4px;
+}
+
+.main-manu li:hover {
+  border-radius: 15px;
+  background-color: #643a79;
+  color: black;
+}
+
+
+.first-sec{
+    width: 100%;
+    height: 596px;
+    background-color:#87509c;
+}
+.container-fluid{
+    text-align: center;
+    position: absolute;
+    margin-top: 300px;
+    color: #fff;
+}
+.btn{
+    background-color: #eb7d4b;
+    margin-top: 40px;
+    height:73px;
+    width: 302px;
+    
+}
+.second{
+    width:100%;
+    height: 743px;
+    background-color: #17c2a4;
+    
+}
+.row{
+  padding-top:62px;
+}
+.services h1 {
+  padding-top: 100px;
+}
+p{
+  margin-top: 25px;
+  font-size: 18px;
+}
+.col-md-3 h3{
+  margin-top: 82px;
+}
+
+
+.third{
+  width:100%;
+  height:914px;
+  background-color:#e7f1f8;
+}
+.meet{
+  padding-top: 118px;
+}
+.ceo{
+  text-decoration: none;
+}
+.meet-pg{
+  padding-top:53px;
+}
+
+.four{
+  width: 100%;
+  height: 655px;
+  background-color: #ffffff;
+}
+.skills{
+  padding-top: 118px;
+}
+.skills-pg{
+  padding-top:53px;
+}
+.row-2{
+  margin-top: px;
+}
+
+
+.five{
+  width: 100%;
+  height: 1422px;
+  background-color:#ffdd99;
+}
+.portfolio{
+  padding-top:118px;
+}
+.portfolio-pg{
+  padding-top:53px;
+}
+.five-manu a{
+    color: black;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 30px;
+    border-radius: 4px;
+    background-color:#ebc985;
+
+}
+.five-manu a:hover {
+    background-color: #ffffff;
+    color:black;
+  }
+.five-manu a.active {
+  background-color: white;
+}
+button.btn.btn-primary.ms-auto.me-auto {
+  background-color: #17c2a4;
+  margin-top: 100px;
+}
+
+
+.six {
+  width: 100%;
+  height: 894px;
+  background-color: #d74680;
+}
+h1.what {
+  padding-top: 118px;
+  text-align: center;
+}
+p {
+  margin-top: 50px;
+  text-align: center;
+}
+.saven{
+  width: 100%;
+  height: 800px;
+  background-color:#3c5499;
+}
